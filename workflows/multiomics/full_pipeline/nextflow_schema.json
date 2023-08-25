@@ -9,6 +9,11 @@
         "type": "object",
         "description": "No description",
         "properties": {
+          "param_list": {
+            "format": "file-path",
+            "mimetype": "text/csv",
+            "pattern": "^\\S+\\.csv$"
+          },
           "id": {
             "type": "string",
             "description": "ID of the sample.",
