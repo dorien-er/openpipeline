@@ -3105,9 +3105,9 @@ meta = [
     "platform" : "nextflow",
     "output" : "/home/runner/work/openpipeline/openpipeline/target/nextflow/multiomics/rna_multisample",
     "viash_version" : "0.8.2",
-    "git_commit" : "7e49fe16a0396f46ca719832e728cdfe6ddb6fa7",
+    "git_commit" : "4f02fd6c2e8f3c33b2e596d438163975ec696b02",
     "git_remote" : "https://github.com/openpipelines-bio/openpipeline",
-    "git_tag" : "0.2.0-1497-g7e49fe16a0"
+    "git_tag" : "0.2.0-1498-g4f02fd6c2e"
   }
 }'''))
 ]
